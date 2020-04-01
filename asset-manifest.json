@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/friend-keeper/static/css/main.dc02a6cc.chunk.css",
+    "main.js": "/friend-keeper/static/js/main.f714370e.chunk.js",
+    "main.js.map": "/friend-keeper/static/js/main.f714370e.chunk.js.map",
+    "runtime-main.js": "/friend-keeper/static/js/runtime-main.9199c908.js",
+    "runtime-main.js.map": "/friend-keeper/static/js/runtime-main.9199c908.js.map",
+    "static/css/2.81e2c8a5.chunk.css": "/friend-keeper/static/css/2.81e2c8a5.chunk.css",
+    "static/js/2.e4e6b904.chunk.js": "/friend-keeper/static/js/2.e4e6b904.chunk.js",
+    "static/js/2.e4e6b904.chunk.js.map": "/friend-keeper/static/js/2.e4e6b904.chunk.js.map",
+    "index.html": "/friend-keeper/index.html",
+    "precache-manifest.4c591d38e15d5f6131b658621224c923.js": "/friend-keeper/precache-manifest.4c591d38e15d5f6131b658621224c923.js",
+    "service-worker.js": "/friend-keeper/service-worker.js",
+    "static/css/2.81e2c8a5.chunk.css.map": "/friend-keeper/static/css/2.81e2c8a5.chunk.css.map",
+    "static/css/main.dc02a6cc.chunk.css.map": "/friend-keeper/static/css/main.dc02a6cc.chunk.css.map",
+    "static/js/2.e4e6b904.chunk.js.LICENSE.txt": "/friend-keeper/static/js/2.e4e6b904.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9199c908.js",
+    "static/css/2.81e2c8a5.chunk.css",
+    "static/js/2.e4e6b904.chunk.js",
+    "static/css/main.dc02a6cc.chunk.css",
+    "static/js/main.f714370e.chunk.js"
+  ]
+}
